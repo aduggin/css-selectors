@@ -1,0 +1,41 @@
+
+<!--
+
+http://www.w3.org/TR/selectors/
+http://www.w3.org/wiki/CSS3/Selectors
+http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
+http://www.w3.org/TR/CSS2/selector.html
+http://css3test.com/#css3-selectors
+http://webstandardssherpa.com/reviews/whats-your-css-style/
+
+-->
+<table>
+    <thead>
+    <tr>
+        <th>Pattern</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Level</th>
+        <th>IE</th>
+        <th><abbr title="Firefox">F</abbr></th>
+        <th><abbr title="Chrome">C</abbr></th>
+        <th><abbr title="Safari">S</abbr></th>
+        <th><abbr title="Opera">O</abbr></th>
+        <th><abbr title="jQuery">$</abbr></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>X + Y</th>
+        <td>adjacent selector</td>
+        <td>Matches any F element immediately preceded by a sibling element E</td>
+        <td>2.1</td>
+        <td>7+</td>
+        <td>2+</td>
+        <td>4+</td>
+        <td>3.1+</td>
+        <td>9+</td>
+        <td>$</td>
+    </tr>
+    </tbody>
+</table>
