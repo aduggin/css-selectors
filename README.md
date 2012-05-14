@@ -25,7 +25,7 @@
         <td>4+</td>
         <td>3.1+</td>
         <td>9+</td>
-        <td>$</td>
+        <td>Yes</td>
         <td><a href="http://dabblet.com/gist/2692433">Demo</a></td>
     </tr>
     </tbody>
