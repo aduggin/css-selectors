@@ -1,14 +1,3 @@
-
-<!--
-
-http://www.w3.org/TR/selectors/
-http://www.w3.org/wiki/CSS3/Selectors
-http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
-http://www.w3.org/TR/CSS2/selector.html
-http://css3test.com/#css3-selectors
-http://webstandardssherpa.com/reviews/whats-your-css-style/
-
--->
 <table>
     <thead>
     <tr>
@@ -39,3 +28,12 @@ http://webstandardssherpa.com/reviews/whats-your-css-style/
     </tr>
     </tbody>
 </table>
+
+
+* [The 30 CSS Selectors you Must Memorize](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
+* [What’s Your CSS Style?](http://webstandardssherpa.com/reviews/whats-your-css-style/)
+* [The CSS3 Test](http://css3test.com/#css3-selectors)
+* [W3C Selectors Level 3](http://www.w3.org/TR/selectors/)
+* [CSS3 Selectors - W3C Wiki](http://www.w3.org/wiki/CSS3/Selectors)
+* [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification - Selectors](http://www.w3.org/TR/CSS2/selector.html)
+
