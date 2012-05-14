@@ -6,10 +6,10 @@
         <th>Description</th>
         <th>Level</th>
         <th>IE</th>
-        <th><abbr title="Firefox">F</abbr></th>
-        <th><abbr title="Chrome">C</abbr></th>
-        <th><abbr title="Safari">S</abbr></th>
-        <th><abbr title="Opera">O</abbr></th>
+        <th><abbr title="Firefox">FF</abbr></th>
+        <th><abbr title="Chrome">Ch</abbr></th>
+        <th><abbr title="Safari">Sa</abbr></th>
+        <th><abbr title="Opera">Op</abbr></th>
         <th><abbr title="jQuery">$</abbr></th>
         <th>Demo</th>
     </tr>
