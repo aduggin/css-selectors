@@ -16,7 +16,7 @@
     </thead>
     <tbody>
     <tr>
-        <th>X + Y</th>
+        <td>X + Y</td>
         <td>adjacent selector</td>
         <td>Matches any F element immediately preceded by a sibling element E</td>
         <td>2.1</td>
